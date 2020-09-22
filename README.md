@@ -28,4 +28,5 @@ Install npm packages before trying run app.
 Then run npm start to pen app in the browser.
 
 ## App's pictures
+<img width="941" alt="Screen Shot 2020-09-21 at 9 59 25 PM" src="https://user-images.githubusercontent.com/63271349/93840795-40ef4b80-fc57-11ea-8418-ce3dbcebfca3.png">
 
