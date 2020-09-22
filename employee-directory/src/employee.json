@@ -7,5 +7,90 @@
         "email": "nika@nika.com",
         "phone": "+1 (111) 111 1112"
 
+    },
+
+    {
+        "id": 2,
+        "name": "Mike Bridge",
+        "position": "Manager",
+        "department": "IT",
+        "email": "mike@mike.com",
+        "phone": "+1 (111) 111 1312"
+
+    },
+
+    {
+        "id": 3,
+        "name": "Candy Bright",
+        "position": "Assistant",
+        "department": "Customer Support",
+        "email": "candy@candy.com",
+        "phone": "+1 (111) 143 1314"
+
+    },
+    {
+        "id": 4,
+        "name": "Sally White",
+        "position": "Manager",
+        "department": "Call Center",
+        "email": "sally@sally.com",
+        "phone": "+1 (111) 111 1515"
+
+    },
+    {
+        "id": 5,
+        "name": "Katerine Jason",
+        "position": "Developer",
+        "department": "IT",
+        "email": "kate@kate.com",
+        "phone": "+1 (111) 156 7890"
+
+    },
+    {
+        "id": 6,
+        "name": "Ahmad Asad",
+        "position": "System Administrator",
+        "department": "IT",
+        "email": "ahmad@ahmad.com",
+        "phone": "+1 (111) 123 1312"
+
+    },
+    {
+        "id": 7,
+        "name": "Julian Black",
+        "position": "Data Analyst",
+        "department": "Project Office",
+        "email": "julian@julian.com",
+        "phone": "+1 (111) 143 1312"
+
+    },
+    {
+        "id": 8,
+        "name": "Nelly Simpson",
+        "position": "Jn. Specialist",
+        "department": "Finance",
+        "email": "nelly@nelly.com",
+        "phone": "+1 (111) 980 1312"
+
+    },
+
+    {
+        "id": 9,
+        "name": "Angel Jameson",
+        "position": "Accountant",
+        "department": "Finance",
+        "email": "angel@angel.com",
+        "phone": "+1 (786) 156 1312"
+
+    },
+    {
+        "id": 10,
+        "name": "Freddy Marcus",
+        "position": "Sr. Specialyst",
+        "department": "Training office",
+        "email": "freddy@freddy.com",
+        "phone": "+1 (745) 114 1313"
+
     }
+
 ]
