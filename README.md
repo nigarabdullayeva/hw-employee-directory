@@ -1,6 +1,6 @@
 # Employee-directory
 
-The application allowing users get the information about compannies' employees such as Name, Department, Position, Email and Telephone. 
+The application allows users get the information about compannies' employees such as Name, Department, Position, Email and Telephone. 
 Users can see whole list of emloyees or select one by name from the search bar. At the same time users can make a list of employees in the alphabetical order. 
 
 ## GH deployed link
